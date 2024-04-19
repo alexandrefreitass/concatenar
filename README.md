@@ -1,7 +1,7 @@
 ## Google Sheets Data Concatenation Script
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/pesquisa-sheets/assets/109884524/ec0a6059-f79f-4916-9f69-883c35e37a77" />
+    <img src="https://github.com/alexandrefreitass/concatenar/assets/109884524/28dad678-b0b2-407a-8abe-d6648ef2cd0b" />
 </div>
 
 Este repositório contém um script do Google Apps Script que automatiza a concatenação de dados em uma planilha do Google Sheets, especificamente na planilha chamada "EFETIVO". O script é acionado por mudanças na célula "C7", onde uma caixa de seleção controla a execução das funções de concatenação e limpeza de dados.
@@ -23,4 +23,4 @@ O script monitora a edição de uma caixa de seleção específica na célula "C
 
 ### Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/dashboard-apps-script/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/concatenar/blob/master/LICENSE) para mais detalhes.
